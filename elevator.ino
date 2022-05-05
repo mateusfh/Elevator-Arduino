@@ -1,5 +1,5 @@
-#define echoPin 1 
-#define trigPin 6
+#define echoPin  4
+#define trigPin 2
 #include <Ultrasonic.h>
 
 long duration;
